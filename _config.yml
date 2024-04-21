@@ -10,9 +10,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: (the)bigsleepjoe # author name
+  name: thebigsleepjoe # author name
   bio: >- # tell to the world
-    An IT technician with a passion for programming and AI. <a href="github.com/thebigsleepjoe">GitHub</a>
+    An IT technician with a passion for programming and AI. Check out my <a href="github.com/thebigsleepjoe">GitHub</a> page.
   username: thebigsleepjoe # general username
   github: thebigsleepjoe # github username
   twitter: none # twitter username

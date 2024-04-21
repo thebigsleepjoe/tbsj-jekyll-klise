@@ -6,7 +6,7 @@ excerpt: About the author
 comments: false
 ---
 
-Hello! I am thebigsleepjoe (Joe/TBSJ), a software developer and modder. I am an IT technician by trade, but I have been programming small projects for close to a decade.
+Hello! I am thebigsleepjoe, a software developer and modder. I am an IT technician by trade, but I have been programming small projects for close to a decade.
 
 I mainly develop mods for video games and tinker with creating automated players for various titles.
 

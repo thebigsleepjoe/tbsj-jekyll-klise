@@ -13,4 +13,6 @@ I mainly develop mods for video games and tinker with creating automated players
 My best known project is the [TTT Bots](https://github.com/thebigsleepjoe/TTT-Bots-2), a project that adds fully automated players
 to the social deduction game Trouble in Terrorist Town, a gamemode for Garry's Mod.
 
-- github.com/{{ site.author.github }}
+## Links
+
+- [GitHub](https://github.com/thebigsleepjoe/)
